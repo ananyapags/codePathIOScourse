@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ColorChanger
+//  ColorChange
 //
-//  Created by ananya on 5/4/25.
+//  Created by ananya on 5/18/25.
 //
 
 import UIKit

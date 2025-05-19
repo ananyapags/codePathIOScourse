@@ -1,13 +1,13 @@
 //
-//  ColorChangerUITestsLaunchTests.swift
-//  ColorChangerUITests
+//  ColorChangeUITestsLaunchTests.swift
+//  ColorChangeUITests
 //
-//  Created by ananya on 5/4/25.
+//  Created by ananya on 5/18/25.
 //
 
 import XCTest
 
-final class ColorChangerUITestsLaunchTests: XCTestCase {
+final class ColorChangeUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

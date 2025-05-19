@@ -7,75 +7,75 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		A656A2402DC87CB50026A43A /* PBXContainerItemProxy */ = {
+		A6CBAB392DDAFE1700693D6C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A656A2212DC87CB20026A43A /* Project object */;
+			containerPortal = A6CBAB1A2DDAFE1400693D6C /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A656A2282DC87CB20026A43A;
-			remoteInfo = ColorChanger;
+			remoteGlobalIDString = A6CBAB212DDAFE1400693D6C;
+			remoteInfo = ColorChange;
 		};
-		A656A24A2DC87CB50026A43A /* PBXContainerItemProxy */ = {
+		A6CBAB432DDAFE1700693D6C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A656A2212DC87CB20026A43A /* Project object */;
+			containerPortal = A6CBAB1A2DDAFE1400693D6C /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A656A2282DC87CB20026A43A;
-			remoteInfo = ColorChanger;
+			remoteGlobalIDString = A6CBAB212DDAFE1400693D6C;
+			remoteInfo = ColorChange;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A656A2292DC87CB20026A43A /* ColorChanger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorChanger.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A656A23F2DC87CB50026A43A /* ColorChangerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorChangerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A656A2492DC87CB50026A43A /* ColorChangerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorChangerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6CBAB222DDAFE1400693D6C /* ColorChange.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorChange.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6CBAB382DDAFE1700693D6C /* ColorChangeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorChangeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6CBAB422DDAFE1700693D6C /* ColorChangeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorChangeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A656A2512DC87CB50026A43A /* Exceptions for "ColorChanger" folder in "ColorChanger" target */ = {
+		A6CBAB4A2DDAFE1700693D6C /* Exceptions for "ColorChange" folder in "ColorChange" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = A656A2282DC87CB20026A43A /* ColorChanger */;
+			target = A6CBAB212DDAFE1400693D6C /* ColorChange */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A656A22B2DC87CB20026A43A /* ColorChanger */ = {
+		A6CBAB242DDAFE1400693D6C /* ColorChange */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				A656A2512DC87CB50026A43A /* Exceptions for "ColorChanger" folder in "ColorChanger" target */,
+				A6CBAB4A2DDAFE1700693D6C /* Exceptions for "ColorChange" folder in "ColorChange" target */,
 			);
-			path = ColorChanger;
+			path = ColorChange;
 			sourceTree = "<group>";
 		};
-		A656A2422DC87CB50026A43A /* ColorChangerTests */ = {
+		A6CBAB3B2DDAFE1700693D6C /* ColorChangeTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ColorChangerTests;
+			path = ColorChangeTests;
 			sourceTree = "<group>";
 		};
-		A656A24C2DC87CB50026A43A /* ColorChangerUITests */ = {
+		A6CBAB452DDAFE1700693D6C /* ColorChangeUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ColorChangerUITests;
+			path = ColorChangeUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A656A2262DC87CB20026A43A /* Frameworks */ = {
+		A6CBAB1F2DDAFE1400693D6C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A656A23C2DC87CB50026A43A /* Frameworks */ = {
+		A6CBAB352DDAFE1700693D6C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A656A2462DC87CB50026A43A /* Frameworks */ = {
+		A6CBAB3F2DDAFE1700693D6C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A656A2202DC87CB20026A43A = {
+		A6CBAB192DDAFE1400693D6C = {
 			isa = PBXGroup;
 			children = (
-				A656A22B2DC87CB20026A43A /* ColorChanger */,
-				A656A2422DC87CB50026A43A /* ColorChangerTests */,
-				A656A24C2DC87CB50026A43A /* ColorChangerUITests */,
-				A656A22A2DC87CB20026A43A /* Products */,
+				A6CBAB242DDAFE1400693D6C /* ColorChange */,
+				A6CBAB3B2DDAFE1700693D6C /* ColorChangeTests */,
+				A6CBAB452DDAFE1700693D6C /* ColorChangeUITests */,
+				A6CBAB232DDAFE1400693D6C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A656A22A2DC87CB20026A43A /* Products */ = {
+		A6CBAB232DDAFE1400693D6C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A656A2292DC87CB20026A43A /* ColorChanger.app */,
-				A656A23F2DC87CB50026A43A /* ColorChangerTests.xctest */,
-				A656A2492DC87CB50026A43A /* ColorChangerUITests.xctest */,
+				A6CBAB222DDAFE1400693D6C /* ColorChange.app */,
+				A6CBAB382DDAFE1700693D6C /* ColorChangeTests.xctest */,
+				A6CBAB422DDAFE1700693D6C /* ColorChangeUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A656A2282DC87CB20026A43A /* ColorChanger */ = {
+		A6CBAB212DDAFE1400693D6C /* ColorChange */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A656A2522DC87CB50026A43A /* Build configuration list for PBXNativeTarget "ColorChanger" */;
+			buildConfigurationList = A6CBAB4B2DDAFE1700693D6C /* Build configuration list for PBXNativeTarget "ColorChange" */;
 			buildPhases = (
-				A656A2252DC87CB20026A43A /* Sources */,
-				A656A2262DC87CB20026A43A /* Frameworks */,
-				A656A2272DC87CB20026A43A /* Resources */,
+				A6CBAB1E2DDAFE1400693D6C /* Sources */,
+				A6CBAB1F2DDAFE1400693D6C /* Frameworks */,
+				A6CBAB202DDAFE1400693D6C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A656A22B2DC87CB20026A43A /* ColorChanger */,
+				A6CBAB242DDAFE1400693D6C /* ColorChange */,
 			);
-			name = ColorChanger;
+			name = ColorChange;
 			packageProductDependencies = (
 			);
-			productName = ColorChanger;
-			productReference = A656A2292DC87CB20026A43A /* ColorChanger.app */;
+			productName = ColorChange;
+			productReference = A6CBAB222DDAFE1400693D6C /* ColorChange.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A656A23E2DC87CB50026A43A /* ColorChangerTests */ = {
+		A6CBAB372DDAFE1700693D6C /* ColorChangeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A656A2572DC87CB50026A43A /* Build configuration list for PBXNativeTarget "ColorChangerTests" */;
+			buildConfigurationList = A6CBAB502DDAFE1700693D6C /* Build configuration list for PBXNativeTarget "ColorChangeTests" */;
 			buildPhases = (
-				A656A23B2DC87CB50026A43A /* Sources */,
-				A656A23C2DC87CB50026A43A /* Frameworks */,
-				A656A23D2DC87CB50026A43A /* Resources */,
+				A6CBAB342DDAFE1700693D6C /* Sources */,
+				A6CBAB352DDAFE1700693D6C /* Frameworks */,
+				A6CBAB362DDAFE1700693D6C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A656A2412DC87CB50026A43A /* PBXTargetDependency */,
+				A6CBAB3A2DDAFE1700693D6C /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				A656A2422DC87CB50026A43A /* ColorChangerTests */,
+				A6CBAB3B2DDAFE1700693D6C /* ColorChangeTests */,
 			);
-			name = ColorChangerTests;
+			name = ColorChangeTests;
 			packageProductDependencies = (
 			);
-			productName = ColorChangerTests;
-			productReference = A656A23F2DC87CB50026A43A /* ColorChangerTests.xctest */;
+			productName = ColorChangeTests;
+			productReference = A6CBAB382DDAFE1700693D6C /* ColorChangeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A656A2482DC87CB50026A43A /* ColorChangerUITests */ = {
+		A6CBAB412DDAFE1700693D6C /* ColorChangeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A656A25A2DC87CB50026A43A /* Build configuration list for PBXNativeTarget "ColorChangerUITests" */;
+			buildConfigurationList = A6CBAB532DDAFE1700693D6C /* Build configuration list for PBXNativeTarget "ColorChangeUITests" */;
 			buildPhases = (
-				A656A2452DC87CB50026A43A /* Sources */,
-				A656A2462DC87CB50026A43A /* Frameworks */,
-				A656A2472DC87CB50026A43A /* Resources */,
+				A6CBAB3E2DDAFE1700693D6C /* Sources */,
+				A6CBAB3F2DDAFE1700693D6C /* Frameworks */,
+				A6CBAB402DDAFE1700693D6C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A656A24B2DC87CB50026A43A /* PBXTargetDependency */,
+				A6CBAB442DDAFE1700693D6C /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				A656A24C2DC87CB50026A43A /* ColorChangerUITests */,
+				A6CBAB452DDAFE1700693D6C /* ColorChangeUITests */,
 			);
-			name = ColorChangerUITests;
+			name = ColorChangeUITests;
 			packageProductDependencies = (
 			);
-			productName = ColorChangerUITests;
-			productReference = A656A2492DC87CB50026A43A /* ColorChangerUITests.xctest */;
+			productName = ColorChangeUITests;
+			productReference = A6CBAB422DDAFE1700693D6C /* ColorChangeUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A656A2212DC87CB20026A43A /* Project object */ = {
+		A6CBAB1A2DDAFE1400693D6C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					A656A2282DC87CB20026A43A = {
+					A6CBAB212DDAFE1400693D6C = {
 						CreatedOnToolsVersion = 16.3;
 					};
-					A656A23E2DC87CB50026A43A = {
+					A6CBAB372DDAFE1700693D6C = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = A656A2282DC87CB20026A43A;
+						TestTargetID = A6CBAB212DDAFE1400693D6C;
 					};
-					A656A2482DC87CB50026A43A = {
+					A6CBAB412DDAFE1700693D6C = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = A656A2282DC87CB20026A43A;
+						TestTargetID = A6CBAB212DDAFE1400693D6C;
 					};
 				};
 			};
-			buildConfigurationList = A656A2242DC87CB20026A43A /* Build configuration list for PBXProject "ColorChanger" */;
+			buildConfigurationList = A6CBAB1D2DDAFE1400693D6C /* Build configuration list for PBXProject "ColorChange" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = A656A2202DC87CB20026A43A;
+			mainGroup = A6CBAB192DDAFE1400693D6C;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = A656A22A2DC87CB20026A43A /* Products */;
+			productRefGroup = A6CBAB232DDAFE1400693D6C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A656A2282DC87CB20026A43A /* ColorChanger */,
-				A656A23E2DC87CB50026A43A /* ColorChangerTests */,
-				A656A2482DC87CB50026A43A /* ColorChangerUITests */,
+				A6CBAB212DDAFE1400693D6C /* ColorChange */,
+				A6CBAB372DDAFE1700693D6C /* ColorChangeTests */,
+				A6CBAB412DDAFE1700693D6C /* ColorChangeUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A656A2272DC87CB20026A43A /* Resources */ = {
+		A6CBAB202DDAFE1400693D6C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A656A23D2DC87CB50026A43A /* Resources */ = {
+		A6CBAB362DDAFE1700693D6C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A656A2472DC87CB50026A43A /* Resources */ = {
+		A6CBAB402DDAFE1700693D6C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A656A2252DC87CB20026A43A /* Sources */ = {
+		A6CBAB1E2DDAFE1400693D6C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A656A23B2DC87CB50026A43A /* Sources */ = {
+		A6CBAB342DDAFE1700693D6C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A656A2452DC87CB50026A43A /* Sources */ = {
+		A6CBAB3E2DDAFE1700693D6C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,20 +269,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A656A2412DC87CB50026A43A /* PBXTargetDependency */ = {
+		A6CBAB3A2DDAFE1700693D6C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A656A2282DC87CB20026A43A /* ColorChanger */;
-			targetProxy = A656A2402DC87CB50026A43A /* PBXContainerItemProxy */;
+			target = A6CBAB212DDAFE1400693D6C /* ColorChange */;
+			targetProxy = A6CBAB392DDAFE1700693D6C /* PBXContainerItemProxy */;
 		};
-		A656A24B2DC87CB50026A43A /* PBXTargetDependency */ = {
+		A6CBAB442DDAFE1700693D6C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A656A2282DC87CB20026A43A /* ColorChanger */;
-			targetProxy = A656A24A2DC87CB50026A43A /* PBXContainerItemProxy */;
+			target = A6CBAB212DDAFE1400693D6C /* ColorChange */;
+			targetProxy = A6CBAB432DDAFE1700693D6C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		A656A2532DC87CB50026A43A /* Debug */ = {
+		A6CBAB4C2DDAFE1700693D6C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -291,7 +291,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CP8Q52RFD3;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ColorChanger/Info.plist;
+				INFOPLIST_FILE = ColorChange/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -302,7 +302,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChanger;
+				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChange;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -310,7 +310,7 @@
 			};
 			name = Debug;
 		};
-		A656A2542DC87CB50026A43A /* Release */ = {
+		A6CBAB4D2DDAFE1700693D6C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -319,7 +319,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CP8Q52RFD3;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ColorChanger/Info.plist;
+				INFOPLIST_FILE = ColorChange/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -330,7 +330,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChanger;
+				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChange;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -338,7 +338,7 @@
 			};
 			name = Release;
 		};
-		A656A2552DC87CB50026A43A /* Debug */ = {
+		A6CBAB4E2DDAFE1700693D6C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -402,7 +402,7 @@
 			};
 			name = Debug;
 		};
-		A656A2562DC87CB50026A43A /* Release */ = {
+		A6CBAB4F2DDAFE1700693D6C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -459,7 +459,7 @@
 			};
 			name = Release;
 		};
-		A656A2582DC87CB50026A43A /* Debug */ = {
+		A6CBAB512DDAFE1700693D6C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -469,16 +469,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChangerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChangeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorChanger.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ColorChanger";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorChange.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ColorChange";
 			};
 			name = Debug;
 		};
-		A656A2592DC87CB50026A43A /* Release */ = {
+		A6CBAB522DDAFE1700693D6C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -488,16 +488,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChangerTests;
+				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChangeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorChanger.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ColorChanger";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorChange.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ColorChange";
 			};
 			name = Release;
 		};
-		A656A25B2DC87CB50026A43A /* Debug */ = {
+		A6CBAB542DDAFE1700693D6C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -505,16 +505,16 @@
 				DEVELOPMENT_TEAM = CP8Q52RFD3;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChangerUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChangeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = ColorChanger;
+				TEST_TARGET_NAME = ColorChange;
 			};
 			name = Debug;
 		};
-		A656A25C2DC87CB50026A43A /* Release */ = {
+		A6CBAB552DDAFE1700693D6C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -522,55 +522,55 @@
 				DEVELOPMENT_TEAM = CP8Q52RFD3;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChangerUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = me.ColorChangeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = ColorChanger;
+				TEST_TARGET_NAME = ColorChange;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A656A2242DC87CB20026A43A /* Build configuration list for PBXProject "ColorChanger" */ = {
+		A6CBAB1D2DDAFE1400693D6C /* Build configuration list for PBXProject "ColorChange" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A656A2552DC87CB50026A43A /* Debug */,
-				A656A2562DC87CB50026A43A /* Release */,
+				A6CBAB4E2DDAFE1700693D6C /* Debug */,
+				A6CBAB4F2DDAFE1700693D6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A656A2522DC87CB50026A43A /* Build configuration list for PBXNativeTarget "ColorChanger" */ = {
+		A6CBAB4B2DDAFE1700693D6C /* Build configuration list for PBXNativeTarget "ColorChange" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A656A2532DC87CB50026A43A /* Debug */,
-				A656A2542DC87CB50026A43A /* Release */,
+				A6CBAB4C2DDAFE1700693D6C /* Debug */,
+				A6CBAB4D2DDAFE1700693D6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A656A2572DC87CB50026A43A /* Build configuration list for PBXNativeTarget "ColorChangerTests" */ = {
+		A6CBAB502DDAFE1700693D6C /* Build configuration list for PBXNativeTarget "ColorChangeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A656A2582DC87CB50026A43A /* Debug */,
-				A656A2592DC87CB50026A43A /* Release */,
+				A6CBAB512DDAFE1700693D6C /* Debug */,
+				A6CBAB522DDAFE1700693D6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A656A25A2DC87CB50026A43A /* Build configuration list for PBXNativeTarget "ColorChangerUITests" */ = {
+		A6CBAB532DDAFE1700693D6C /* Build configuration list for PBXNativeTarget "ColorChangeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A656A25B2DC87CB50026A43A /* Debug */,
-				A656A25C2DC87CB50026A43A /* Release */,
+				A6CBAB542DDAFE1700693D6C /* Debug */,
+				A6CBAB552DDAFE1700693D6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A656A2212DC87CB20026A43A /* Project object */;
+	rootObject = A6CBAB1A2DDAFE1400693D6C /* Project object */;
 }
